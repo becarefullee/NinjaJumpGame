@@ -210,7 +210,6 @@ class GameScene: SKScene {
 //MARK: Ninja Actions
 
 
-
 extension GameScene {
   
   func moveSprite(sprite: SKSpriteNode, velocity: CGPoint) {
